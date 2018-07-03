@@ -1,0 +1,32 @@
+[debug] [2018-07-03T07:38:22.100Z] ----------------------------------------------------------------------
+[debug] [2018-07-03T07:38:22.103Z] Command:       /Users/khathawut/.nvm/versions/node/v8.9.0/bin/node /Users/khathawut/.nvm/versions/node/v8.9.0/bin/firebase serve
+[debug] [2018-07-03T07:38:22.103Z] CLI Version:   3.19.1
+[debug] [2018-07-03T07:38:22.103Z] Platform:      darwin
+[debug] [2018-07-03T07:38:22.103Z] Node Version:  v8.9.0
+[debug] [2018-07-03T07:38:22.104Z] Time:          Tue Jul 03 2018 14:38:22 GMT+0700 (+07)
+[debug] [2018-07-03T07:38:22.104Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-07-03T07:38:22.122Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-07-03T07:38:22.123Z] > authorizing via signed-in user
+[debug] [2018-07-03T07:38:22.125Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/fungjaimun4  
+  
+ Tue Jul 03 2018 14:38:22 GMT+0700 (+07)
+[debug] [2018-07-03T07:38:23.281Z] <<< HTTP RESPONSE 200
+[debug] [2018-07-03T07:38:23.282Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/fungjaimun4/tokens  
+  
+ Tue Jul 03 2018 14:38:23 GMT+0700 (+07)
+[debug] [2018-07-03T07:38:24.190Z] <<< HTTP RESPONSE 200
+[debug] [2018-07-03T07:38:24.191Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/fungjaimun4  
+  
+ Tue Jul 03 2018 14:38:24 GMT+0700 (+07)
+[debug] [2018-07-03T07:38:25.682Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/khathawut/Documents/Fungjai/firebase_fungjaimun'...
+[info] 
+[debug] [2018-07-03T07:38:25.685Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/990012855961/clients/_:getWebAppConfig  
+  
+ Tue Jul 03 2018 14:38:25 GMT+0700 (+07)
+[debug] [2018-07-03T07:38:26.487Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+
